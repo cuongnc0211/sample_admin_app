@@ -41,6 +41,7 @@ gem "sassc-rails"
 
 gem 'bootstrap', '~> 4.6.0'
 gem 'jquery-rails'
+gem 'font-awesome-sass', '~> 5.15.1'
 
 group :development, :test do
   # See https://guides.rubyonrails.org/debugging_rails_applications.html#debugging-with-the-debug-gem
