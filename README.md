@@ -1,7 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+An sample Admin App with Rails 7 , Ruby 3, Spocket, SB-Admin-2 theme, Bootstrap, JQuery, FontAwesome
 
 Things you may want to cover:
 
