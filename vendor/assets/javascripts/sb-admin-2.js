@@ -1,6 +1,4 @@
-(function($) {
-  "use strict"; // Start of use strict
-
+$(function() {
   // Toggle the side navigation
   $("#sidebarToggle, #sidebarToggleTop").on('click', function(e) {
     $("body").toggleClass("sidebar-toggled");
@@ -52,5 +50,4 @@
     }, 1000, 'easeInOutExpo');
     e.preventDefault();
   });
-
-})(jQuery); // End of use strict
+});
